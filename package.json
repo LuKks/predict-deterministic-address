@@ -1,6 +1,6 @@
 {
   "name": "predict-deterministic-address",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JavaScript version of Clones.predictDeterministicAddress from OpenZeppelin",
   "main": "index.js",
   "scripts": {
